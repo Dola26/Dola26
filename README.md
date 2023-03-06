@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dola26
 - 👀 I’m interested in web development,Devops
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on open sourcr projects and contribute my part
+- 💞️ I’m looking to collaborate on open source projects and contribute my part
 - 📫 How to reach me @dolaE26(twitter),dolapavan@gmail.com
 
 
