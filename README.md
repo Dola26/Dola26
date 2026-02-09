@@ -45,7 +45,7 @@ I learn by doing — whether it's implementing distributed transactions with the
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com](www.linkedin.com/in/dola-pavan-kumar-kabotula-b308aa180)
+- **LinkedIn:** [linkedin.com]([www.linkedin.com/in/dola-pavan-kumar-kabotula-b308aa180](https://www.linkedin.com/in/dola-pavan-kumar-kabotula-b308aa180/))
 - **Twitter/X:** [@dolaE26](https://x.com/dolapavan24)
 - **Email:** dolapavan@gmail.com
 - **Location:** Peoria, Illinois
