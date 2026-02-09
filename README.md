@@ -39,31 +39,16 @@ I learn by doing — whether it's implementing distributed transactions with the
 
 **Observability:** Prometheus, Grafana, Loki, Promtail
 
-## 📚 Currently Learning
 
-- Advanced distributed systems patterns (CRDT, Raft consensus)
-- Rust for systems programming
-- Kubernetes operators and service mesh architectures
 
-## 🎯 2026 Goals
 
-- [ ] Complete message queue broker with partition rebalancing
-- [ ] Contribute to open-source projects (Spring Boot, Kafka)
-- [ ] Build distributed key-value store with Raft consensus
-- [ ] Land a backend/infrastructure internship for Summer 2026
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter/X:** [@dolaE26](https://twitter.com/dolaE26)
+- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/dola-pavan-kumar-kabotula-b308aa180)
+- **Twitter/X:** [@dolaE26](https://x.com/dolapavan24)
 - **Email:** dolapavan@gmail.com
 - **Location:** Peoria, Illinois
-
-## 📊 GitHub Stats
-
-![Dola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dola26&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dola26&layout=compact&theme=radical)
 
 ---
 
